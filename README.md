@@ -46,7 +46,7 @@ The dataset contains customer details such as demographics, account activity, tr
 ```
 📁 Customer-Churn-Analysis  
 │── 📝 customer_churn_analysis.ipynb  # Jupyter Notebook with full analysis  
-│── 📝 churn.csv                    # Sample dataset 
+│── 📝 churn_data.csv                    # Sample dataset 
 │── 📝 README.md                       # Project Documentation  
 ```
 
